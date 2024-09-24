@@ -5,7 +5,7 @@ O projeto em questão centrou-se na definição da rede de distribuição de uma
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/ui.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table1.png?raw=true" width="200" />
 </p>
 
 
@@ -15,7 +15,7 @@ O projeto em questão centrou-se na definição da rede de distribuição de uma
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/ui.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table2.png?raw=true" width="200" />
 </p>
 
 
@@ -29,7 +29,7 @@ A seguinte imagem retrata as quantidades a produzir de cada centro de produção
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/ui.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/results.png?raw=true" width="200" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Por outro lado, este menu ainda permite uma seleção personalizada dos armazén
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/ui.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/menu.png?raw=true" width="200" />
 </p>
 
 <p align="center">
@@ -65,14 +65,25 @@ De forma a facilitar a perceção visual destes cenários, produziu-se, com o re
 
 
 
+<p align="center">
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/map.png?raw=true" width="200" />
+</p>
+
+<p align="center">
+<i>Figura 5: Figura ilustrativa da rede de distribuição logística considerando a disponibilidade de todos os armazéns (dos dois casos) e uma diminuição da procura em 20 %</i>
+</p>
 
 
 
 
-
-
-
-
-Imagem 5: Figura ilustrativa da rede de distribuição logística considerando a disponibilidade de todos os armazéns (dos dois casos) e uma diminuição da procura em 20 %.
 O exemplo anterior retrata um caso específico ao analisar um caso de consideração de todos os centros logísticos ao invés dos realizados para o caso 1 e 2, pelo que, para este exemplo, os centros logísticos são o de Portugal, Espanha e Ávila XL
-Imagem 6: Figura ilustrativa dos centros logísticos a serem abertos com uma diminuição da procura em 20 %.
+
+
+<p align="center">
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table3.png?raw=true" width="200" />
+</p>
+
+<p align="center">
+<i>Figura 6: Figura ilustrativa dos centros logísticos a serem abertos com uma diminuição da procura em 20 %</i>
+</p>
+
