@@ -1,4 +1,4 @@
-# definicao_rede_distribuicao
+# Definição de uma rede de distribuição
 O projeto em questão centrou-se na definição da rede de distribuição de uma organização. Tendo por base as suas duas instalações produtivas em cidades portuguesas, os mercados inserida (Portugal, Espanha, França, Alemanha e Itália), limitações de produção fabril e procura dos seus clientes, analisou-se a opção mais económica entre:
 1.	Abertura de um centro logístico em cada um dos países de mercado inserida (obtidas através do método de centro de gravidade).
 2.	Abertura apenas de dois armazéns com capacidade XL, em Espanha e na Alemanha.
