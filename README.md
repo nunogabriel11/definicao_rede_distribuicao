@@ -24,7 +24,7 @@ O projeto em questão centrou-se na definição da rede de distribuição de uma
 </p><br />
 
 
-O recurso da extensão “Solver” do Excel permitiu, mediante a variação da capacidade dos centros logísticos e procura por parte dos clientes, obter quais os armazéns a considerar para ambos os casos 1 e 2.
+O recurso da extensão “Solver” do Excel permitiu, mediante a variação da capacidade dos centros logísticos e procura por parte dos clientes, obter quais os armazéns a considerar para ambos os casos 1 e 2.<br />
 A seguinte imagem retrata as quantidades a produzir de cada centro de produção para cada um dos centros logísticos XL, como também as quantidades a distribuir de este últimos para cada cliente final (exemplo para o caso 2)<br /><br />
 
 
@@ -38,7 +38,7 @@ A seguinte imagem retrata as quantidades a produzir de cada centro de produção
 
 
 
-De maneira a facilitar a interação do utilizador, foi criado um menu interativo, com auxílio de programação no Excel, de forma a permitir criar diferentes cenários ao selecionar quais dos 2 casos considerar, como também alterar a procura e capacidades logísticas atuais.
+De maneira a facilitar a interação do utilizador, foi criado um menu interativo, com auxílio de programação no Excel, de forma a permitir criar diferentes cenários ao selecionar quais dos 2 casos considerar, como também alterar a procura e capacidades logísticas atuais.<br />
 Desta forma, a partir da criação de Macros, desenvolveu-se o botão “Atualiza valores” que permite a iniciação do menu para manipulação análise de diferentes possíveis cenários.<br /><br />
 
 <p align="center">
@@ -60,7 +60,7 @@ Por outro lado, este menu ainda permite uma seleção personalizada dos armazén
 
 
 
-Os resultados são apresentados numa das folhas do Excel em que é possível observar, mediante o caso selecionado, quais os armazéns a serem abertos, que quantidades cada centro fabril vai produzir para armazém a ser aberto, e que quantidades cada armazém irá distribuir para cada o cliente final (figura 3).
+Os resultados são apresentados numa das folhas do Excel em que é possível observar, mediante o caso selecionado, quais os armazéns a serem abertos, que quantidades cada centro fabril vai produzir para armazém a ser aberto, e que quantidades cada armazém irá distribuir para cada o cliente final (figura 3).<br />
 
 Além disso, foram realizados 5 análises distintas de cenários com manipulação de centros logísticos a desconsiderar, de variação na procura por parte dos clientes e de variação na capacidade dos armazéns considerados. 
 De forma a facilitar a perceção visual destes cenários, produziu-se, com o recurso da funcionalidade “3D Map” do Excel, a rede de distribuição da empresa a partir das localizações geográficas de centros fabril, logísticos e de clientes, como se pode observar pelo seguinte exemplo:<br /><br />
