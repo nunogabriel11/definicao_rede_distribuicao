@@ -41,7 +41,9 @@ A seguinte imagem retrata as quantidades a produzir de cada centro de produção
 De maneira a facilitar a interação do utilizador, foi criado um menu interativo, com auxílio de programação no Excel, de forma a permitir criar diferentes cenários ao selecionar quais dos 2 casos considerar, como também alterar a procura e capacidades logísticas atuais.
 Desta forma, a partir da criação de Macros, desenvolveu-se o botão “Atualiza valores” que permite a iniciação do menu para manipulação análise de diferentes possíveis cenários.<br /><br />
 
-MOSTRAR VIDEO DO MENU A FUNCIONAR<br />
+<p align="center">
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/demo.gif?raw=true" width="250" />
+</p><br />
 
 Por outro lado, este menu ainda permite uma seleção personalizada dos armazéns a desconsiderar (ver figura 4) permitindo ir mais longe com o desenvolvimento deste projeto.<br /><br />
 
