@@ -5,7 +5,7 @@ O projeto em questão centrou-se na definição da rede de distribuição de uma
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table1.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table1.png?raw=true" width="400" />
 </p>
 
 
@@ -15,7 +15,7 @@ O projeto em questão centrou-se na definição da rede de distribuição de uma
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table2.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table2.png?raw=true" width="400" />
 </p>
 
 
@@ -29,7 +29,7 @@ A seguinte imagem retrata as quantidades a produzir de cada centro de produção
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/results.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/results.png?raw=true" width="650" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Por outro lado, este menu ainda permite uma seleção personalizada dos armazén
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/menu.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/menu.png?raw=true" width="250" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ De forma a facilitar a perceção visual destes cenários, produziu-se, com o re
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/map.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/map.png?raw=true" width="400" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ O exemplo anterior retrata um caso específico ao analisar um caso de considera�
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table3.png?raw=true" width="200" />
+  <img src="https://github.com/nunogabriel11/definicao_rede_distribuicao/blob/main/imgs/table3.png?raw=true" width="450" />
 </p>
 
 <p align="center">
